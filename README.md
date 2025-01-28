@@ -4,7 +4,7 @@
 An SQL Project on Pizza Sales 
 
 ## Description
-This project involves utilizing SQL to perform analysis onf Pizza Sales data to explore pizza and related order trends in order to derive meaningful insights. The data contains 
+This project involves utilizing SQL to perform analysis on Pizza Sales data to explore pizza and related order trends in order to derive meaningful insights. The data contains 
 #### pizzas
 * pizza_id
 * pizza_type_id
