@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e464681-036e-45ef-b8f4-ac376d6acf70)
+![Screenshot 2025-01-29 033335](https://github.com/user-attachments/assets/46274cbf-4cd6-4c83-a7e5-4f438a327cb2)
 
 # Project Title
 An SQL Project on Pizza Sales 
